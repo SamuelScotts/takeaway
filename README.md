@@ -1,3 +1,5 @@
+An initial build of a basic online takeaway, to learn to use Vue.js, Vuetify and Vuex.  Still totally a work in progress.  I'm definitely not a designer!
+
 # directory
 
 ## Project setup
